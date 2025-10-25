@@ -180,7 +180,7 @@ Instalação Passo a Passo
 Clone o repositório
 
 bash
-git clone https://github.com/3DV5/MapTopologia.git
+git clone https://github.com/3DV5/MapTopology.git
 cd MapTopologia
 Crie um ambiente virtual (recomendado)
 
